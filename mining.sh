@@ -18,3 +18,4 @@ peer 209.97.128.161 peer 206.189.121.5 \
 peer 209.97.142.170 peer 209.97.142.169 \
 peer 209.97.142.143 \
 mine mining_addr D8WLQ472BePIAn1nRoJ6MH_GLgmlogOCVmCbp2UYSoE
+echo "-----OK-----"
