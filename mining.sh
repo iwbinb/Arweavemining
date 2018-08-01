@@ -1,4 +1,3 @@
-#!/bin/bash
 echo "-----Start-----"
 ./arweave-server \
 peer 35.178.129.36 peer 18.130.126.49 \
