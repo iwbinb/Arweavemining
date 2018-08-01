@@ -1,4 +1,4 @@
-echo "-----Start-----"
+echo "-----StartAR-----"
 ./arweave-server
 peer 35.178.129.36 peer 18.130.126.49
 peer 52.56.119.91 peer 52.33.231.154
